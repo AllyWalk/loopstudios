@@ -16,8 +16,8 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio]([https://github.com/](https://github.com/AllyWalk/loopstudios))
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://loopstudios-git-main-alls-projects-380cd6c4.vercel.app/)
 
 ---
 
@@ -36,32 +36,9 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 ---
 
 ### 💡 Lo que aprendí
-En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
-Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
-
-Ejemplo:
-```html
-<header class="flex items-center justify-between p-6 text-white bg-black">
-  <img src="/logo.svg" alt="Loopstudios Logo" />
-</header>
-```
-```css
-.text-primary {
-  color: hsl(0, 0%, 100%);
-}
-```
-```js
-const toggleMenu = () => {
-  document.getElementById('menu').classList.toggle('hidden');
-}
-```
----
+Aprendi a como hacer rutas dinamicas src={/images/desktop/${item.imgName}}, ya que es una funcion
 
 ### 🚀 Áreas de mejora
-
-Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
-
-**Ejemplo:**
 - Mejorar el manejo del responsive en pantallas pequeñas.  
 - Implementar animaciones o transiciones suaves.  
 - Explorar el uso de variables de Tailwind personalizadas.  
