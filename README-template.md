@@ -16,7 +16,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio]((https://github.com/AllyWalk/loopstudios))
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/AllyWalk/loopstudios
 - **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://loopstudios-git-main-alls-projects-380cd6c4.vercel.app/)
 
 ---
